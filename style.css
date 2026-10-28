@@ -205,6 +205,7 @@ h3{
     border: 1px solid black;
     cursor: pointer;
 }
+
 .chat:hover{
     background-color: #482878;
     color: white;
